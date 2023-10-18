@@ -1,5 +1,5 @@
 #### Data Scientist 
--Since my time in graduate school, I have been dedicated to my journey of becoming a data scientist. This year, I decided to take the more challenging path by immersing myself in the world of data science through extensive reading and coursework. While I have a genuine fondness for Coursera and online video courses, I find that I particularly enjoy learning from books, especially those that offer practical approaches and insights.
+- Since my time in graduate school, I have been dedicated to my journey of becoming a data scientist. This year, I decided to take the more challenging path by immersing myself in the world of data science through extensive reading and coursework. While I have a genuine fondness for Coursera and online video courses, I find that I particularly enjoy learning from books, especially those that offer practical approaches and insights.
 
 ### Education 
 MS in Engineering 
