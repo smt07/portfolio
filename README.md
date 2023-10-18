@@ -5,8 +5,8 @@
 MS in Engineering 
 - The City College of New York
 - Data Science Bootcamp 
-### Work Experiences
 
+### Work Experiences
 - Constrition Field Engineer for municipal Water treatments under contractor for 5 years. 
 - Field Engineer for high rise and school projects in Brooklyn 
 
