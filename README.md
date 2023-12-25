@@ -15,16 +15,16 @@ MS in Engineering
 - Statistical analysis of historical data, precipitation characterization in New York City.
 
 ### Certifications 
-- The Power of Statistics                                    Google
-- Advanced Learning Algorithms                               Deeplearning.ai
-- Supervised Machine Learning: Regression and Classification Deeplearning.ai
-- Scientific Computing and Python for Data Science :         The Data Incubator
-- Inferential Statistical Analysis with Python               University of Michigan
-- Understanding and Visualizing Data with Python             University of Michigan
-- Python For Data Science                                    IBM
-- Neural Network and Deep Learning                           Deeplearning.ai
+- The Power of Statistics,                                    Google
+- Advanced Learning Algorithms,                               Deeplearning.ai
+- Supervised Machine Learning: Regression and Classification, Deeplearning.ai
+- Scientific Computing and Python for Data Science,           The Data Incubator
+- Inferential Statistical Analysis with Python,               University of Michigan
+- Understanding and Visualizing Data with Python,             University of Michigan
+- Python For Data Science,                                    IBM
+- Neural Network and Deep Learning,                           Deeplearning.ai
 
 ### Data Science Books 
-- Data Science Bookcamp Five Real world Python Projects   By Leonard Apeltsin
-- The Data Science Workshop                               By Anthony So , Thomas V. Joseph , Robert Thas John
+- Data Science Bookcamp Five Real world Python Projects,   By Leonard Apeltsin
+- The Data Science Workshop,                               By Anthony So , Thomas V. Joseph , Robert Thas John
 
